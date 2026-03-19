@@ -21,6 +21,7 @@ public class CustomList {
         cities.remove(city);
     }
 
+
     // Will be implemented later using TDD (leave blank for now)
     // public boolean hasCity(City city) { ... }
 }
